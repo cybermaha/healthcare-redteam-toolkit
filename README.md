@@ -1,6 +1,7 @@
 
 # Healthcare Red Team Toolkit - MedGuard
-
+# DISCLAIMER: This is a simulation tool only. Never use on real healthcare systems.
+# The authors accept no liability for misuse of this software.
 ![MedGuard Banner](docs/banner.png) *(optional: add a banner image)*
 
 ## Overview
