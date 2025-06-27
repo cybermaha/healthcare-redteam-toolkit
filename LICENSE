@@ -1,5 +1,35 @@
 MIT License
 
+### 4. `docs/ETHICAL_GUIDELINES.md`
+```markdown
+# Ethical Guidelines for Healthcare Red Teaming
+
+## Core Principles
+1. **Patient Safety First**: Never compromise real medical devices or patient care systems
+2. **Data Protection**: Never interact with real patient data (PHI/PII)
+3. **Authorization**: Obtain written permission before any testing
+4. **Compliance**: Adhere to HIPAA, GDPR, and local regulations
+5. **Disclosure**: Report all findings through proper channels
+
+## Prohibited Actions
+❌ Testing on live medical devices  
+❌ Accessing real patient records  
+❌ Disrupting clinical operations  
+❌ Sharing simulated patient data outside secure environments  
+
+## Recommended Workflow
+1. Obtain written authorization
+2. Conduct testing in isolated lab environments
+3. Use only simulated data
+4. Document all findings
+5. Securely destroy test artifacts
+6. Report vulnerabilities responsibly
+
+## Regulatory Considerations
+- HIPAA Security Rule (45 CFR Part 160 and Subparts A and C of Part 164)
+- HITECH Act requirements
+- FDA Premarket Cybersecurity Guidance
+- NIST SP 800-66 Rev. 2 (HIPAA Security Rule Implementation)
 Copyright (c) 2025 cybermaha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
