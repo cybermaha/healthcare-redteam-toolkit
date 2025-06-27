@@ -21,7 +21,7 @@ Healthcare Cybersecurity Red Team Toolkit - Simulated environment for medical se
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/healthcare-redteam-toolkit.git
+git clone https://github.com/cybermaha/healthcare-redteam-toolkit.git
 cd healthcare-redteam-toolkit
 pip install -r requirements.txt
 python medguard.py
