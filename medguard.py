@@ -18,8 +18,8 @@ MEDGUARD PENTEST SUITE - ETHICAL CONSIDERATIONS
 3. Never interact with real patient data
 4. All findings must be reported through proper channels
 5. Comply with HIPAA, GDPR, and all relevant regulations
-6. # DISCLAIMER: This is a simulation tool only. Never use on real healthcare systems.
-7. # The authors accept no liability for misuse of this software.
+6. # DISCLAIMER: This is a simulation tool only. Never use on real healthcare systems. #
+7. # The authors accept no liability for misuse of this software. #
 "")
 
 # DISCLAIMER: This is a simulation tool only. Never use on real healthcare systems.
