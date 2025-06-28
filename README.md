@@ -2,7 +2,7 @@
 # Healthcare Red Team Toolkit - MedGuard
 # DISCLAIMER: This is a simulation tool only. Never use on real healthcare systems.
 # The authors accept no liability for misuse of this software.
-![MedGuard Banner](docs/banner.png) *(optional: add a banner image)*
+![MedGuard Banner](docs/banner.png) 
 
 ## Overview
 MedGuard is a specialized penetration testing toolkit designed for healthcare cybersecurity professionals. It simulates attacks on medical systems while maintaining strict ethical boundaries and HIPAA compliance.
